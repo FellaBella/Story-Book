@@ -132,4 +132,21 @@ ul li a:hover {
 		width:100%;
 		height:100%;
 		background-color:rgba(0,0,0,0.4);
-		
+
+.mpboxs {width:600px; 
+	height: 850px; 
+	background-color:#ebb75e;
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 15px; 
+	margin-left: 30%; 
+	align-items:center;
+	 justify-content:center;}
+
+.rm {
+    width: 500px;
+    height: 500px;
+	border-radius: 20px;
+	margin-left: 9%;
+	justify-content: center;
+
+
